@@ -24,6 +24,7 @@ This project uses deep learning to classify handwritten digits (0–9) from imag
    The model predicts the digit with high accuracy, and displays the result instantly.
 
 ### 💻 Tech Stack
+```bash
 
 | Tool            | Description                              |
 |-----------------|------------------------------------------|
@@ -32,14 +33,14 @@ This project uses deep learning to classify handwritten digits (0–9) from imag
 | Streamlit     | User-friendly web app interface          |
 | NumPy | For image handling and preprocessing     |
 | MNIST         | Benchmark dataset for handwritten digits |
+```
 
 ### 🔍 Example Predictions
-
+```bash
 | Input Image        | Predicted Digit |
 |--------------------|-----------------|
 | (Drawn "5")        | 5 ✅             |
 | (Uploaded "3.png") | 3 ✅             |
 
----
+```
 
-> ✅ *Both projects are deployable and fully interactive*, showcasing skills in both classical ML and deep learning.
